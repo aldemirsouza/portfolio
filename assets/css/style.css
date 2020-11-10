@@ -208,19 +208,13 @@ img {
   margin-top: 30px;
 }
 
-.icon-github,
-.icon-linkedin-square,
-.icon-instagram,
-.icon-social-behance {
+.fab {
   font-size: 2em;
-  color: #111;
+  color: #2f2e41;
   padding-right: 5px;
 }
 
-.icon-github:hover,
-.icon-linkedin-square:hover,
-.icon-instagram:hover,
-.icon-social-behance:hover {
+.fab:hover {
   color: #00c0da;
 }
 
@@ -275,6 +269,7 @@ img {
 .service_card i {
   font-size: 4em;
   color: #2f2e41;
+  margin-bottom: 20px;
 }
 
 .service_card h2 {
@@ -586,7 +581,7 @@ strong {
 }
 
 .contact_icons i {
-  font-size: 1.3em;
+  font-size: 1.4em;
   margin-right: 10px;
 }
 
