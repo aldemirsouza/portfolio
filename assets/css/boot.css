@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #2f2e41;
+  --secundary-color: #00c0da;
+}
+
+.btn {
+  display: inline-block;
+  background: transparent;
+  border: solid 2px #00c0da;
+  color: #00c0da;
+  font-size: 1.3em;
+  font-weight: 500;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+.btn:hover {
+  background: #00d2e5;
+  border-color: #00d2e5;
+  transition: 1s;
+  color: #2f2e41;
+}
